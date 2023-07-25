@@ -96,4 +96,8 @@ Se você não tem ideia do que estamos falando, pense neste modelo:
 * [Serilog](https://www.nuget.org/packages/serilog/)
 
 # Contribuidores
-<img src="https://avatars.githubusercontent.com/u/7257227?v=4" alt="Marcos Rocha" size="32" data-view-component="true" class="avatar circle" width="32" height="32"><img src="https://avatars.githubusercontent.com/u/87040481?v=4" alt="Miguel Oliveira" size="32" data-view-component="true" class="avatar circle" width="32" height="32">
+<a href="https://github.com/RiseDevs/peace-erp/graphs/contributors"><img src="https://contrib.rocks/image?repo=RiseDevs/peace-erp" /></a>
+
+# Autores
+| [<img src="https://github.com/marcosrocha85.png?size=115" width=115><br><sub>@marcosrocha85</sub>](https://github.com/marcosrocha85) | [<img src="https://github.com/eimigueloliveir.png?size=115" width=115><br><sub>@eimigueloliveir</sub>](https://github.com/eimigueloliveir) |
+| :---: | :---: |
