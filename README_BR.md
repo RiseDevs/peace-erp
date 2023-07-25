@@ -7,6 +7,9 @@
 
 A intenção desta aplicação é ser utilizada por ONGs (Organizações Não Governamentais), preferencialmente por ONGs Sociais.
 
+# Contribuir
+Para contribuir, consulte nosso "Guia de Contribuição" (link a definir)
+
 # Linguagem
 Esta aplicação utilizará C# com .NET Core 7
 
@@ -91,3 +94,6 @@ Se você não tem ideia do que estamos falando, pense neste modelo:
 * [Rx.NET](https://github.com/dotnet/reactive)
 * [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/)
 * [Serilog](https://www.nuget.org/packages/serilog/)
+
+# Contribuidores
+<img src="https://avatars.githubusercontent.com/u/7257227?v=4" alt="Marcos Rocha" size="32" data-view-component="true" class="avatar circle" width="32" height="32"><img src="https://avatars.githubusercontent.com/u/87040481?v=4" alt="Miguel Oliveira" size="32" data-view-component="true" class="avatar circle" width="32" height="32">
