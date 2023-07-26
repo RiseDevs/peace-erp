@@ -21,7 +21,7 @@ If you don't mind what we're talking about, think this model:
 <br><img alt="Image from Clean Architecture layer distribution" src="/ca_layers.png" width="600" />
 
 <details>
-<summary>## Folder structure</summary>
+<summary>Folder structure</summary>
 
 ```
 📁 Data                                // Data layer (Take care of Disk and Cloud)

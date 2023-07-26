@@ -20,8 +20,8 @@ A arquitetura utilizada é o [Clean Architecture](https://www.youtube.com/watch?
 Se você não tem ideia do que estamos falando, pense neste modelo:
 <br><img alt="Imagem da distribuição de camadas do Clean Architecture" src="/ca_layers.png" width="600" />
 
-<details open>
-<summary>## Estrutura de pastas</summary>
+<details>
+<summary>Estrutura de pastas</summary>
 
 ```
 📁 Data                                // Camada de Dados (Cuida dos assuntos de Disco e Nuvem)
