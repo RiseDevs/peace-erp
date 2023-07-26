@@ -17,7 +17,6 @@
   <ItemGroup>
     <Folder Include="Application\" />
     <Folder Include="Data\" />
-    <Folder Include="Domain\" />
     <Folder Include="Presentation\" />
   </ItemGroup>
 
