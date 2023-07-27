@@ -1,0 +1,26 @@
+﻿version: '3.7'
+name: peace-erp
+services:
+  peace-erp:
+    container_name: peace-erp
+    image: peace-erp
+    ports:
+        - "7275:7275"
+        - "5203:5203"
+    expose:
+        - "5203"
+        - "7275"
+    build: 
+        context: ./peace-erp
+        dockerfile: peace-erp/Dockerfile
+    environment:
+        - ASPNETCORE_ENVIRONMENT=Development
+        - ASPNETCORE_URLS=http://+:7275
+        - ASPNETCORE_HTTPS_PORT=7275
+    restart: always
+    deploy:
+        resources:
+              limits:
+                    memory: 512M
+              reservations:
+                    memory: 256M
