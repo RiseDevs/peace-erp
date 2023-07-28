@@ -15,10 +15,10 @@ This application will use C# with .NET Core 7
 
 # Architecture
 The architecture to be used is the [Clean Architecture](https://www.youtube.com/watch?v=o_TH-Y78tt4).
-<br><img alt="Image from Clean Architecture" src="/clean_architecture.jpg" width="400"/>
+<br><img alt="Image from Clean Architecture" src="/img/clean_architecture.jpg" width="400"/>
 
 If you don't mind what we're talking about, think this model:
-<br><img alt="Image from Clean Architecture layer distribution" src="/ca_layers.png" width="600" />
+<br><img alt="Image from Clean Architecture layer distribution" src="/img/ca_layers.png" width="600" />
 
 <details>
 <summary>Folder structure</summary>

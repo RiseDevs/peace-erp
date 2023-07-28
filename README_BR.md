@@ -15,10 +15,10 @@ Esta aplicação utilizará C# com .NET Core 7
 
 # Arquitetura
 A arquitetura utilizada é o [Clean Architecture](https://www.youtube.com/watch?v=o_TH-Y78tt4).
-<br><img alt="Imagem da arquitetura do Clean Architure" src="/clean_architecture.jpg" width="400"/>
+<br><img alt="Imagem da arquitetura do Clean Architure" src="/img/clean_architecture.jpg" width="400"/>
 
 Se você não tem ideia do que estamos falando, pense neste modelo:
-<br><img alt="Imagem da distribuição de camadas do Clean Architecture" src="/ca_layers.png" width="600" />
+<br><img alt="Imagem da distribuição de camadas do Clean Architecture" src="/img/ca_layers.png" width="600" />
 
 <details>
 <summary>Estrutura de pastas</summary>
