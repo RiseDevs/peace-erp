@@ -1,9 +1,8 @@
-﻿namespace peace_erp.Domain.Entities.Enum
+﻿namespace peace_erp.Entities.Enum;
+
+public enum CategoryTypeEnum
 {
-    public enum CategoryTypeEnum
-    {
-        Incoming = 1,
-        Budget = 2,
-        Both = 3
-    }
+    Incoming = 1,
+    Budget = 2,
+    Both = 3
 }
