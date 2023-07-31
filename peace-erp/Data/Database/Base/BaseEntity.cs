@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace peace_erp.Domain.Entities.Base;
+namespace peace_erp.Data.Database.Base;
 
 public class BaseEntity
 {

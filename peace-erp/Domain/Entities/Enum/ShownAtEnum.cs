@@ -1,4 +1,4 @@
-﻿namespace peace_erp.Domain.Entities;
+﻿namespace peace_erp.Domain.Entities.Enum;
 
 public enum ShownAt
 {
