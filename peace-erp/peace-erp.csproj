@@ -22,7 +22,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Data\Features\NovaPasta\" />
     <Folder Include="Presentation\" />
   </ItemGroup>
 
